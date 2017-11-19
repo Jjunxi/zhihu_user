@@ -1,0 +1,7 @@
+/.idea/
+
+/zhihu_user/*.pyc
+
+/zhihu_user/spiders/*.pyc
+
+.DS_Store
